@@ -1,0 +1,4 @@
+code . == make VS folder
+
+git init == initializes a repository
+
