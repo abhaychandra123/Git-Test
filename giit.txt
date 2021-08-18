@@ -19,3 +19,5 @@ git diff == to see all the changes thAT were made
 git rm waste.html == REMOVE also from staged and FOLDER
 
 git rm --cached waste.html == Remove from stage but not from folder(untracked)
+
+touch .gitignore == is a file that contains names of files that have to be ignorered
