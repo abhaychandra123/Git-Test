@@ -8,3 +8,6 @@ git add -A ==to add all untracked files to stage
 
 git commit -m "Your message here "
 
+git checkout index.html == Used to recover last commit 
+
+git checkout -f == Recover all files from last commit
