@@ -11,3 +11,7 @@ git commit -m "Your message here "
 git checkout index.html == Used to recover last commit 
 
 git checkout -f == Recover all files from last commit
+
+git log === see all commits
+
+git diff == to see all the changes thAT were made
