@@ -2,3 +2,9 @@ code . == make VS folder
 
 git init == initializes a repository
 
+touch ==makes blank files
+
+git add -A ==to add all untracked files to stage
+
+git commit -m "Your message here "
+
